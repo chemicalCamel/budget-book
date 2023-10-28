@@ -2,6 +2,13 @@
 
 Budget book to analyze, manage and improve incomes and expenses.
 
+## Resources
+
+**Architecture**
+
+- Client side encryption guide: https://blog.cozy.io/en/cozy-cloud-how-to-encrypt-web-application/
+- Store keys in browser: https://pomcor.com/2017/06/02/keys-in-browser/
+
 ## Features
 
 **To implement**
